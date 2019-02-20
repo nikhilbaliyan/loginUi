@@ -18,14 +18,14 @@ public class MainActivity extends AppCompatActivity {
         }
     };
 
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-
-
-        rellay = (RelativeLayout) findViewById(R.id.rellay);
-
-        handler.postDelayed(runnable,2000);
-    }
+//    @Override
+//    protected void onCreate(Bundle savedInstanceState) {
+//        super.onCreate(savedInstanceState);
+//        setContentView(R.layout.activity_main);
+//
+//
+//        rellay = (RelativeLayout) findViewById(R.id.rellay);
+//
+//        handler.postDelayed(runnable,2000);
+//    }
 }

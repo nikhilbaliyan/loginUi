@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#23A7D8</color>
-    <color name="colorPrimaryDark">#23A7D8</color>
-    <color name="colorAccent">#673AB7</color>
+    <color name="colorPrimary">#71CD75</color>
+    <color name="colorPrimaryDark">#56ABCB</color>
+    <color name="colorAccent">#F37CCD</color>
 
     <color name="white">#FFFFFF</color>
     <!--<color name="transparent">#800000000</color>-->
-    <color name="gradientstart">#19AA8B</color>
-    <color name="gradientstop">#23A7D8</color>
+    <color name="gradientstart">#DDED69</color>
+    <color name="gradientstop">#9CCDDF</color>
 
 </resources>

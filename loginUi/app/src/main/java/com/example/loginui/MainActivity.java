@@ -10,7 +10,7 @@ import android.widget.RelativeLayout;
 
 public class MainActivity extends AppCompatActivity {
 
-    RelativeLayout rellay;
+    RelativeLayout rellay; //This is  for spalsh screen
     Handler handler = new Handler();
     Runnable runnable = new Runnable() {
         @Override
